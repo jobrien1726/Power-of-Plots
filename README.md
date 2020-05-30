@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# Power of Plots
 
 ### Project Overview
 
