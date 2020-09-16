@@ -1,4 +1,4 @@
-# Power of Plots
+# Skin Cancer Drug Analysis
 
 ### Project Overview
 
